@@ -138,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 
+
 Questions? Check out [the FAQ](https://github.com/hianzuo/andorid-logger/wiki/FAQ)!
 
 ## License
